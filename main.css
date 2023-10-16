@@ -4,6 +4,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    display: grid;
+}
 body > header {
     background-color: rgb(58, 128, 122);
     padding: 16px 0;
